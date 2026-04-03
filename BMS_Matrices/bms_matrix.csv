@@ -1,0 +1,6 @@
+Condition,Chemistry,Climate,Terrain,Model,RMSE,R2,MAE,Size_MB,Latency_ms,Memory_OK,RMSE_norm,Latency_norm,Size_norm,Penalty,Score,Rank
+NMC | Hot & Highway,NMC,Hot,Highway,Decision Tree,0.108098,0.990067,0.04395,0.0337,0.7927,True,0.00013612329759456624,0.0,0.00013845295563125727,0.0,0.000109,1
+NMC | Optimal & Highway,NMC,Optimal,Highway,Linear Regression,0.041614,0.997795,0.032133,0.0031,0.8223,True,0.0,0.0007405517110247151,0.0,0.0,0.000148,1
+NMC | Cold & City/Hilly,NMC,Cold,City/Hilly,Linear Regression,0.072881,0.990023,0.050182,0.0031,0.8223,True,0.0,0.0007405517110247151,0.0,0.0,0.000148,1
+NMC | Optimal & City/Hilly,NMC,Optimal,City/Hilly,Linear Regression,0.086655,0.988022,0.060639,0.0031,0.8223,True,0.0,0.0007405517110247151,0.0,0.0,0.000148,1
+NMC | Hot & City/Hilly,NMC,Hot,City/Hilly,Linear Regression,0.102268,0.98272,0.077403,0.0031,0.8223,True,0.0,0.0007405517110247151,0.0,0.0,0.000148,1
